@@ -1,0 +1,108 @@
+/* 
+  Localizable.strings
+  FamousFootPrints
+
+  Created by mac on 05/07/22.
+  
+*/
+//MARK: SelectLanguageVC
+//Welcome to footprints
+"Welcome to footprintsKey" = "Welcome to footprints";
+//Please select a language
+"Please select a languageKey" = "Please select a language";
+
+"Language" = "Arabic";
+//
+"Next" = "English";
+
+
+//MARK: LogInVC
+//
+"TitleLIC" = "Sign in to Famous Footprints";
+//
+"LogInEmail" = "Login with Email";
+//
+"Don't Have an account" = "Don't Have an account yet?";
+//
+"Register" = "Register";
+//
+"Sign In" = "Sign In";
+//
+"Text" = "Find Famous FootPrints all around the world";
+//
+"Enter Number" = "Enter Number";
+
+//MARK: RegisterVC
+//
+"TitleRVC" = "Register with Famous Footprints";
+//
+"Already have an account?" = "Already have an account?";
+//
+"Log In" = "Log In";
+//
+"Register" = "Register";
+//
+"Text" = "Find Famous FootPrints all around the world";
+//
+"Enter Number" = "Enter Number";
+//
+"Email" = "Email";
+//
+"FullName" = "Full Name";
+//
+"Password" = "Password";
+
+//MARK: LoginWithEmail
+
+//
+"TitleLIC" = "Sign in to Famous Footprints";
+//
+"LogInPhone" = "Login with Phone";
+//
+"Don't Have an account" = "Don't Have an account yet?";
+//
+"Register" = "Register";
+//
+"Sign In" = "Sign In";
+//
+"Text" = "Find Famous FootPrints all around the world";
+//
+"Email" = "Email";
+//
+"Password" = "Password";
+
+
+//MARK: SlidingViewController
+"Map View" = "Map View";
+"List View" = "List View";
+"Create Posts" = "Create Posts";
+"Saved Posts" = "Saved Posts";
+"Settings" = "Settings";
+"Log-Out" = "Log-Out";
+
+//MARK: HVC
+"Map View" = "Map View";
+
+//MARK: ListVC
+"List View" = "List View";
+
+//MARK: CreatePostsVC
+"Create Posts" = "Create Posts";
+
+//MARK: SavedPostsVC
+"Saved Posts" = "Saved Posts";
+
+//MARK: SettingsVC
+"Settings" = "Settings";
+"Profile" = "Profile";
+"Notifications" = "Notifications";
+"Share App" = "Share App";
+"Terms and Conditions" = "Terms and Conditions";
+"Privacy Policy" = "Privacy Policy";
+"SelectLanguage" = "Select Language";
+"Location" = "Location";
+
+//MARK: ProfileVC
+"Email" = "Email";
+"Name" = "Name";
+"Update Details" = "Update Details";

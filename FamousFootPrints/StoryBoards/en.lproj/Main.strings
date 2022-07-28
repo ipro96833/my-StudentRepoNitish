@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Language: EN"; ObjectID = "0hd-6E-EhJ"; */
+"0hd-6E-EhJ.text" = "Language: EN";
+
+/* Class = "UILabel"; text = "Find Famous Footprints all around the world!"; ObjectID = "4w4-m8-2cc"; */
+"4w4-m8-2cc.text" = "Find Famous Footprints all around the world!";
+
+/* Class = "UILabel"; text = "Please Select a language"; ObjectID = "GoX-88-OeI"; */
+"GoX-88-OeI.text" = "Please Select a language";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "N7V-SK-fNY"; */
+"N7V-SK-fNY.placeholder" = "Mobile Number";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "WDp-mM-Pyg"; */
+"WDp-mM-Pyg.configuration.title" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WDp-mM-Pyg"; */
+"WDp-mM-Pyg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Sign in to Famous Footprints"; ObjectID = "Xbp-Do-h18"; */
+"Xbp-Do-h18.text" = "Sign in to Famous Footprints";
+
+/* Class = "UIButton"; configuration.title = "SIGN IN"; ObjectID = "kw2-4b-K0e"; */
+"kw2-4b-K0e.configuration.title" = "SIGN IN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kw2-4b-K0e"; */
+"kw2-4b-K0e.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Welcome to FootPrints"; ObjectID = "qYD-qK-1VF"; */
+"qYD-qK-1VF.text" = "Welcome to FootPrints";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "rJV-CR-tHT"; */
+"rJV-CR-tHT.text" = "+91";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "rRT-bb-qhQ"; */
+"rRT-bb-qhQ.configuration.title" = "English";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rRT-bb-qhQ"; */
+"rRT-bb-qhQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Don't have an account yet?"; ObjectID = "tL4-HL-Ek2"; */
+"tL4-HL-Ek2.text" = "Don't have an account yet?";
+
+/* Class = "UIButton"; configuration.title = "Login With Email"; ObjectID = "vux-Eh-0p9"; */
+"vux-Eh-0p9.configuration.title" = "Login With Email";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vux-Eh-0p9"; */
+"vux-Eh-0p9.normalTitle" = "Button";

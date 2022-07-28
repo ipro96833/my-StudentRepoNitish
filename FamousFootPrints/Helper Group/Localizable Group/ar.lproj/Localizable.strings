@@ -1,0 +1,107 @@
+/* 
+  Localizable.strings
+  FamousFootPrints
+
+  Created by mac on 05/07/22.
+  
+*/
+//Welcome to footprints
+"Welcome to footprintsKey" = "مرحبًا بكم في موقع اثار الاقدام";
+
+//Please select a language
+"Please select a languageKey" = "يرجى تحديد لغة";
+//
+"Language" = "الإنجليزية";
+//
+"Next" = "English";
+
+
+//MARK: LogInVC
+//
+"TitleLIC" = "سجّل الدخول إلى موقع مشهور فوتبرينتس";
+//
+"LogInEmail" = "تسجيل الدخول بالبريد الإلكتروني";
+//
+"Don't Have an account" = "لا تملك حسابا حتى الآن؟";
+//
+"Register" = "يسجل";
+//
+"Sign In" = "تسجيل الدخول";
+//
+"Text" = "البحث عن آثار أقدام مشهورة في جميع أنحاء العالم";
+//
+"Enter Number" = "أدخل رقم";
+
+//MARK: RegisterVC
+//
+"TitleRVC" = "التسجيل مع آثار أقدام مشهورة";
+//
+"Already have an account?" = "هل لديك حساب؟";
+//
+"Log In" = "تسجيل الدخول";
+//
+"Register" = "يسجل";
+//
+"Text" = "البحث عن آثار أقدام مشهورة في جميع أنحاء العالم";
+//
+"Enter Number" = "أدخل رقم";
+//
+"Email" = "البريد الإلكتروني";
+//
+"FullName" = "الاسم الكامل";
+//
+"Password" = "كلمه السر";
+
+//MARK: LoginWithEmail
+
+"TitleLIC" = "سجّل الدخول إلى موقع مشهور فوتبرينتس";
+//
+"LogInPhone" = "تسجيل الدخول عبر الهاتف";
+//
+"Don't Have an account" = "لا تملك حسابا حتى الآن؟";
+//
+"Register" = "يسجل";
+//
+"Sign In" = "تسجيل الدخول";
+//
+"Text" = "البحث عن آثار أقدام مشهورة في جميع أنحاء العالم";
+//
+"Email" = "البريد الإلكتروني";
+//
+"Password" = "كلمه السر";
+
+//MARK: SlidingViewController
+"Map View" = "عرض الخريطة";
+"List View" = "عرض القائمة";
+"Create Posts" = "إنشاء مشاركات";
+"Saved Posts" = "المشاركات المحفوظة";
+"Settings" = "إعدادات";
+"Log-Out" = "تسجيل خروج";
+
+//MARK: HVC
+"Map View" = "عرض الخريطة";
+
+//MARK: ListVC
+"List View" = "عرض القائمة";
+
+//MARK: CreatePostsVC
+"Create Posts" = "إنشاء مشاركات";
+
+//MARK: SavedPostsVC
+"Saved Posts" = "المشاركات المحفوظة";
+
+//MARK: SettingsVC
+"Settings" = "إعدادات";
+"Profile" = "الملف الشخصي";
+"Notifications" = "إشعارات";
+"Share App" = "شارك التطبيق";
+"Terms and Conditions" = "الأحكام والشروط";
+"Privacy Policy" = "سياسة الخصوصية";
+"SelectLanguage" = "اختار اللغة";
+"Location" = "موقع";
+
+//MARK: ProfileVC
+"Email" = "البريد الإلكتروني";
+"Name" = "اسم";
+"Update Details" = "تحديث التفاصيل";
+
