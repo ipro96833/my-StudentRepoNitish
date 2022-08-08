@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19461" systemVersion="20G165" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Locations" representedClassName="Locations" syncable="YES">
+        <attribute name="descriprion" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="img1" optional="YES" attributeType="String"/>
+        <attribute name="img2" optional="YES" attributeType="String"/>
+        <attribute name="latitude" optional="YES" attributeType="String"/>
+        <attribute name="loc_id" optional="YES" attributeType="String"/>
+        <attribute name="loc_name" optional="YES" attributeType="String"/>
+        <attribute name="location_address" optional="YES" attributeType="String"/>
+        <attribute name="longitude" optional="YES" attributeType="String"/>
+        <attribute name="uid" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Locations" positionX="-63" positionY="-18" width="128" height="179"/>
+    </elements>
+</model>
